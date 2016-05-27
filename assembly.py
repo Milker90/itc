@@ -8,7 +8,7 @@ import conf
 import hashlib
 import os
 import sys
-from archiveiOS import Item
+from archive import Item
 
 def assembly(item):
 	apple_id = conf.apple_id

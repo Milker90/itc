@@ -4,8 +4,8 @@
 import os
 import sys
 import getpass
-from archiveiOS import Item
-import readyUploadData
+from archive import Item
+import assembly
 
 
 def upload(item):

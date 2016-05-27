@@ -4,7 +4,7 @@
 import os
 import sys
 import getpass
-from archiveiOS import Item
+from archive import Item
 
 def lookup(item):
 	# 获取metadata
