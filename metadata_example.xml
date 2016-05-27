@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://apple.com/itunes/importer" version="software5.4">
+	<software_assets bundle_identifier="com.crossmirror.TestArchive" apple_id="1116938384" bundle_short_version_string="1.0.0" bundle_version="4">
+		<asset type="bundle">
+			<data_file>
+				<file_name>TestArchive.ipa</file_name>
+				<size>1296282</size>
+				<checksum type="md5">e1ab18d42d35bf9e960046e204f8a7ed</checksum>
+			</data_file>
+		</asset>
+	</software_assets>
+</package>
