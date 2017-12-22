@@ -1,4 +1,4 @@
-# itc
+# 实现需求
 用python实现ipa打包，上传ipa到itunesconnect
 
 # 使用方法
@@ -6,6 +6,6 @@
 2, 运行 python go.py<br>
 
 # 注意事项
-1，确认配置的版本好能上传到itc<br>
+1，确认配置的版本号能上传到itunesconnect<br>
 2，最好通过APP-SPECIFIC PASSWORDS来设置发布账号密码<br>
 

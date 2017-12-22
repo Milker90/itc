@@ -10,10 +10,10 @@ distribute_account = "xxx"
 # 发布账号密码
 distribute_pwd = "xxx"
 
-# SKU 在itc上可以查看到这个值
+# SKU 在itunesconnect上可以查看到这个值
 vendor_id = "FUNV20150118"
 
-# 苹果商店id  在itc上可以查看到这个值
+# 苹果商店id  在itunesconnect上可以查看到这个值
 apple_id = "959458417"
 
 # 工程路径
