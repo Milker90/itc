@@ -1,23 +1,27 @@
 #!/usr/bin/python
 # coding:utf-8
 
-bundle_short_version_string = "1.0.0"
+distribute_account = "xxx"
 
-bundle_version = "5"
+distribute_pwd = "xxx"
 
-project_path = "/Users/tommy/Desktop/TestArchive"
+bundle_short_version_string = "1.3.0"
 
-scheme = "TestArchive"
+bundle_version = "151"
 
-configuration = "AdHoc"
+project_path = "/Users/goodboy/Desktop/mm/happytime"
 
-vendor_id = "comcrossmirror20182"
+scheme = "HappyTime"
 
-provisioning_profile_name = "TestArchive_AdHoc"
+configuration = "Release"
 
-apple_id = "1116938384"
+vendor_id = "FUNV20150118"
 
-bundle_identifier = "com.crossmirror.TestArchive"
+provisioning_profile_name = "HappyTime_AppStore"
+
+apple_id = "959458417"
+
+bundle_identifier = "com.crossmirror.funv"
 
 iTMSTransporter = "/Applications/Xcode.app/Contents/Applications/Application\ Loader.app/Contents/itms/bin/iTMSTransporter"
 

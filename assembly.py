@@ -19,7 +19,8 @@ def assembly(item):
 
 	# 移动ipa文件
 	dsrc = r'%s/%s.ipa' % (item.itmsp_path, item.scheme)
-	mvCmd = r'mv %s %s' %(item.ipa_path, dsrc)
+	ipa_path = r'%s/%s.ipa' % (item.ipa_path, item.scheme)
+	mvCmd = r'mv %s %s' %(ipa_path, dsrc)
 	print mvCmd
 	os.system(mvCmd)
 
